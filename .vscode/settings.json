@@ -1,0 +1,7 @@
+{
+  "turboConsoleLog.logMessagePrefix": "",
+  "turboConsoleLog.quote": "`",
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "turboConsoleLog.logMessageSuffix": ""
+}
